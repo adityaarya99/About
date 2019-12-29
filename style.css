@@ -7,7 +7,7 @@ body{
 /*-----------==========  Header Css  =========-------------*/
 #header{
 	height: 100vh;
-	background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.8)),url(img/3.jpg);;
+	background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.8)),url(img/3.jpg);
 	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
